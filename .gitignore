@@ -4,6 +4,7 @@
 
 # Secret file
 .env
+.env.test
 
 # Logs
 logs
